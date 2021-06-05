@@ -1,0 +1,29 @@
+{
+  "name": "sociablebustlingorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1heur13/acebott.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1heur13/acebott/issues"
+  },
+  "homepage": "https://github.com/1heur13/acebott#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord-buttons": "^3.1.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.12",
+    "ms": "^2.1.3",
+    "reconlx": "^1.2.41"
+  }
+}
